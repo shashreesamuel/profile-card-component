@@ -68,13 +68,13 @@ body {
   line-height: 25px;
 }
 
-.personal-information h2 {
+.personal-information h1 {
   display: inline-block;
   color: var(--very-dark-blue);
   font-size: 18px;
 }
 
-.personal-information h2 span {
+.personal-information h1 span {
   color: var(--grayish-blue);
   font-weight: 100;
   font-size: 16px;
