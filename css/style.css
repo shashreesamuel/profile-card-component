@@ -38,6 +38,21 @@ body {
   background-color: var(--white);
 }
 
+.image-bottom{
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  top: 0;
+}
+
+.image-top{
+  position: absolute;
+  z-index: -1;
+  right: 0;
+  background-position-x: 90%;
+}
+
+
 .card-background {
   width: 100%;
   max-width: inherit;
